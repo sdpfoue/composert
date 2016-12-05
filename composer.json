@@ -1,0 +1,11 @@
+{
+    "name": "cpx/test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "tongjishi",
+            "email": "tongjishi@chupinxiu.com"
+        }
+    ],
+    "require": {}
+}
